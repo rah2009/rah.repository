@@ -6,6 +6,8 @@ int main()
 	int x;
 	int y;
 	int z=30;
+	cin >> x;
+	cin >> y;
 	if (x > y)
 	{
 		cout << x << endl;
@@ -15,7 +17,5 @@ int main()
 		cout << y << endl;
 	}
 
-	
-	}
 	
 }
