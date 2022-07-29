@@ -12,7 +12,7 @@ int main()
 	{
 		cout << x << endl;
 	}
-	else if (z>x)
+	 if (z>x)
 	{
 		cout << z << endl;
 	}
