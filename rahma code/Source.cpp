@@ -5,20 +5,11 @@ int main()
 	cout << "please enter your number:" << endl;
 	int x;
 	int y;
-	int z=30;
+	int xx;
 	cin >> x;
 	cin >> y;
-	if (x > y)
-	{
-		cout << x << endl;
-	}
-	 if (z>x)
-	{
-		cout << z << endl;
-	}
-	else 
-	{
-		cout<<y<<endl;
+	cout<<"xx is an double IX"<<endl;
+	
 	}
 	
 }
