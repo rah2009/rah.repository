@@ -5,8 +5,16 @@ int main()
 	cout << "please enter your number:" << endl;
 	int x;
 	int y;
-	int xx;
-	cout<<"xx is an double IX"<<endl;
+	int z=30;
+	if (x > y)
+	{
+		cout << x << endl;
+	}
+	else
+	{
+		cout << y << endl;
+	}
+
 	
 	}
 	
