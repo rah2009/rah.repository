@@ -6,8 +6,6 @@ int main()
 	int x;
 	int y;
 	int xx;
-	cin >> x;
-	cin >> y;
 	cout<<"xx is an double IX"<<endl;
 	
 	}
