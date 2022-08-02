@@ -6,6 +6,7 @@ int main()
 	int x;
 	int y;
 	int z=30;
+	int f=20;
 	cin >> x;
 	cin >> y;
 	if (x > y)
